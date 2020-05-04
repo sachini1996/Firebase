@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test Application-Firebase</string>
+    <string name="n1">Enter your ID</string>
+    <string name="n2">Enter your Name</string>
+    <string name="n3">Enter your Address</string>
+    <string name="n4">Enter your Contact Number</string>
+    <string name="n5">SAVE</string>
+    <string name="n6">SHOW</string>
+    <string name="n7">UPDATE</string>
+    <string name="n8">DELETE</string>
+</resources>
